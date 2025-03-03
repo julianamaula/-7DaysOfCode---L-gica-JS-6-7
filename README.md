@@ -38,8 +38,10 @@ Quer melhorar essa lista de compras e deixá-la ainda mais incrível?
 - Abra um **Pull Request** e compartilhe sua contribuição! 🚀  
 
 ## 📜 Licença
+## 📄 Licença
 
-https://github.com/julianamaula/-7DaysOfCode---L-gica-JS-6-7/blob/main/LICENSE
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](https://github.com/julianamaula/-7DaysOfCode---L-gica-JS-6-7/blob/main/LICENSE) para mais detalhes.
+
 
 Este projeto foi criado para facilitar sua vida nas compras!  
 Fique à vontade para usá-lo, melhorá-lo e compartilhar com seus amigos.  
