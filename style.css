@@ -52,7 +52,7 @@ input, select, button {
 .button-container {
     display: flex;
     gap: 10px;
-    justify-content: space-between;
+    justify-content: flex-end;
     margin-top: 10px;
 }
 
