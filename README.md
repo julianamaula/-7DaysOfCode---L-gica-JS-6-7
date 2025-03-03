@@ -39,6 +39,8 @@ Quer melhorar essa lista de compras e deixá-la ainda mais incrível?
 
 ## 📜 Licença
 
+https://github.com/julianamaula/-7DaysOfCode---L-gica-JS-6-7/blob/main/LICENSE
+
 Este projeto foi criado para facilitar sua vida nas compras!  
 Fique à vontade para usá-lo, melhorá-lo e compartilhar com seus amigos.  
 Se fizer alguma modificação legal, me avise! Adoraria ver o que você criou. 😃  
