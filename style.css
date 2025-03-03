@@ -1,0 +1,218 @@
+/* Estilos gerais */
+body {
+    background-image: url(/assests/freepik__fundo_personalizadofundo_com_varios_blocos_de.png);
+    background-size: cover;  /* Faz com que a imagem cubra todo o fundo */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    background-attachment: fixed; /* Mantém o fundo fixo ao rolar a página */
+    
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+label {
+    font-weight: bold;
+    color: #555;
+}
+
+input, select, button {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.button-container {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+button {
+    background-color: #28a745;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    flex: 1; /* Distribui o espaço igualmente entre os botões */
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+#list-container {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.hidden {
+    display: none !important;
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #f8f9fa;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    color: #333;
+}
+
+#item-count {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+#total-value {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 20px;
+    color: #333;
+}
+
+#history-container {
+    margin-top: 30px;
+}
+
+#history-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.history-item {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.history-item h3 {
+    margin: 0 0 10px 0;
+    color: #333;
+}
+
+.history-item ul {
+    margin: 0;
+    padding: 0;
+}
+
+.history-item li {
+    background-color: #e9ecef;
+    padding: 8px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    color: #333;
+}
+
+.message {
+    color: #d9534f;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.remove-button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.remove-button:hover {
+    background-color: #c82333;
+}
+
+#remove-item-container {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#remove-item-container input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+#remove-item-container button {
+    background-color: #dc3545;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+#remove-item-container button:hover {
+    background-color: #c82333;
+}
+
+#clear-history {
+    background-color: #a8e5f5f8;
+    color: #000;
+}
+
+#clear-history:hover {
+    background-color: #84e6fc;
+}
+
+.remover{
+    background-color: #dc3545;
+}
+.nova-lista{
+    background-color: #2629dadf;
+}
+.exibir-lista{
+    background-color: #dfb343;
+}
+
+.remover:hover{
+    background-color: #f2200d;
+}
+.nova-lista:hover{
+    background-color: #1201f8;
+}
+.exibir-lista:hover{
+    background-color: #ecaa01;
+}
+
