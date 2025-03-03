@@ -43,5 +43,5 @@ Este projeto foi criado para facilitar sua vida nas compras!
 Fique à vontade para usá-lo, melhorá-lo e compartilhar com seus amigos.  
 Se fizer alguma modificação legal, me avise! Adoraria ver o que você criou. 😃  
 
- ![alt text](icons8-mulher-tecnóloga-48.png)**Feito com 💙 por Juliana de Maula**  
+ ![icons8-mulher-tecnóloga-48](https://github.com/user-attachments/assets/cce202ee-f99f-4ec2-b3ff-92e807e00395)**Feito com 💙 por Juliana de Maula**  
 
