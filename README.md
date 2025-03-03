@@ -38,7 +38,6 @@ Quer melhorar essa lista de compras e deixá-la ainda mais incrível?
 - Abra um **Pull Request** e compartilhe sua contribuição! 🚀  
 
 ## 📜 Licença
-## 📄 Licença
 
 Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](https://github.com/julianamaula/-7DaysOfCode---L-gica-JS-6-7/blob/main/LICENSE) para mais detalhes.
 
@@ -47,5 +46,17 @@ Este projeto foi criado para facilitar sua vida nas compras!
 Fique à vontade para usá-lo, melhorá-lo e compartilhar com seus amigos.  
 Se fizer alguma modificação legal, me avise! Adoraria ver o que você criou. 😃  
 
- ![icons8-mulher-tecnóloga-48](https://github.com/user-attachments/assets/cce202ee-f99f-4ec2-b3ff-92e807e00395)**Feito com 💙 por Juliana de Maula**  
+
+
+
+ ---
+
+<div  align="center"> 
+ 
+   ![icons8-mulher-tecnóloga-48](https://github.com/user-attachments/assets/cce202ee-f99f-4ec2-b3ff-92e807e00395)**Feito com 💙 por Juliana de Maula**  .
+       
+   [![github (1)](https://github.com/user-attachments/assets/b00d055f-82f4-4c97-85e1-986068f5e264)](https://github.com/julianamaula) [![linkedin (2)](https://github.com/user-attachments/assets/044bc6c2-c1e9-4f04-8979-71f95d9f6c66)](https://www.linkedin.com/in/juliana-de-maula/)
+  </div>
+
+
 
