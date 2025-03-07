@@ -1,10 +1,5 @@
 body {
     background-image: URL("assests/freepik__fundo_personalizadofundo_com_varios_blocos_de.png");
-    background-size: cover;  /* Faz com que a imagem cubra todo o fundo */
-    background-position: center; /* Centraliza a imagem */
-    background-repeat: no-repeat; /* Evita repetição da imagem */
-    background-attachment: fixed; /* Mantém o fundo fixo ao rolar a página */
-    
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
@@ -17,13 +12,13 @@ body {
 
 
 .container {
-    background-color: #ffffff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 100%;
-    max-width: 600px;
-    text-align: center;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
 }
 
 h1 {
@@ -50,10 +45,11 @@ input, select, button {
 }
 
 .button-container {
-    display: flex;
-    gap: 10px;
-    justify-content: flex-end;
-    margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 button {
@@ -214,4 +210,21 @@ li {
 .exibir-lista:hover{
     background-color: #ecaa01;
 }
+
+@media screen and (max-width: 600px) {
+  .container {
+    width: 90%; /* Make the container take up more width on smaller screens */
+    padding: 10px; /* Reduce padding for smaller screens */
+  }
+  .button-container {
+    max-width: 800px;
+  }
+
+  h1 {
+    font-size: 24px; /* Adjust heading size */
+  }
+
+  button {
+    font-size: 14px; /* Adjust button size */
+  }
 
